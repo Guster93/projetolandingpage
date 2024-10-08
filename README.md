@@ -1,3 +1,3 @@
 # projetolandingpage
 Projeto de desenvolvimento DNC Inicio
-https://escoladncdesafioum.netlify.app
+https://escoladncgustavo.netlify.app/
